@@ -46,6 +46,9 @@ header > nav > a:hover{
     transition-duration: 0.4s;
     color: var(--cor04);
 }
+#principal2{
+    text-align: start;
+}
 main{
     background-color: white;
     padding: 10px;
