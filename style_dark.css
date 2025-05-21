@@ -103,6 +103,19 @@ main > section > article > p{
     font-weight: bold;
     color: var(--cor05);
 }
+#botao_github{
+    text-align: center;
+    margin-bottom: 5px;
+}
+#botao_github > a{
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+}
+#botao_github > a:hover{
+    text-decoration: underline;
+    color: #3e68ad;
+}
 footer > p{
     background-color: var(--cor02);
     text-align: center;
