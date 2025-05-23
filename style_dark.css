@@ -116,6 +116,24 @@ main > section > article > p{
     text-decoration: underline;
     color: #3e68ad;
 }
+#login_buttom{
+    text-align: center;
+    margin: 15px 0px 10px 0px;
+    background-color: var(--cor04);
+    border-style: solid;
+    width: 120px;
+    border-radius: 5px;
+    border-width: 2px;
+    padding: 5px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+#login_buttom > a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
 footer > p{
     background-color: var(--cor02);
     text-align: center;
